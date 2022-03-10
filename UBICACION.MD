@@ -1,6 +1,6 @@
 [MODELOS](./MODELOS.MD) | [PRECIOS](./PRECIOS.MD) | [UBICACION](./UBICACION.MD) | [TALLAS](./TALLAS.MD) | 
 
-### nuestra matris se encuentra en 
+### nuestra matriz se encuentra en 
   - CONGRESO DE LA UNION Y AV MOLEROS N*22 COL MADALENA MIXUCA 
   
 ### SUCURSAL 2
