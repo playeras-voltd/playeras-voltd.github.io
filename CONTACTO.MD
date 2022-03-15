@@ -6,3 +6,7 @@ ATENCION A CLIENTES EL NUMERO ES
   NUESTRO CORREO ELECTRONICO ES 
   
   PLAYERASVOLDT91@GMAIL.COM
+  
+  
+  ![wa link_ku61ib](https://user-images.githubusercontent.com/100168748/158484608-7e0445ac-aa94-4047-81fc-5abbc244a7b9.png)
+
