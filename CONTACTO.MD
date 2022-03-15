@@ -12,7 +12,7 @@ ATENCION A CLIENTES EL NUMERO ES
 
 <form>
   <label for="name">Nombres:</label><br>
-  <input type="text" id="lname" name="name" value= "tusnomres"><br>
+  <input type="text" id="lname" name="name" value="tus nombres"><br>
   <label for="lname">apellidos:</label><br>
-  <input type="text" id="lname" value= "tus apellidos"><br>
+  <input type="text" id="lname" name="lname" value="tus apellidos"><br>
 </form>
