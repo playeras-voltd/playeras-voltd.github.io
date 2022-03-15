@@ -13,6 +13,6 @@ ATENCION A CLIENTES EL NUMERO ES
 <form>
   <labelfor="nombre":</label><br>
   <input type="text" id="nome"name="name" value="tus nombres"><br>
-  <label tor ="iname">apeidos=</label><br>
-  <input type="text" id="iname" name="iname"value="apeidos"><br>
- </form>
+  <label tor ="iname">apellidos=</label><br>
+  <input type="text" id="iname" name="iname"value="apellidos"><br>
+</form>
