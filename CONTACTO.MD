@@ -10,3 +10,9 @@ ATENCION A CLIENTES EL NUMERO ES
   
   ![wa link_ku61ib](https://user-images.githubusercontent.com/100168748/158484608-7e0445ac-aa94-4047-81fc-5abbc244a7b9.png)
 
+<form>
+  <labelfor="nombre":</label><br>
+  <input type="text" id="nome"name="name" value="tus nombres"><br>
+  <label tor ="iname">apeidos=</label><br>
+  <input type="text" id="iname" name="iname"value="apeidos"><br>
+ </form>
