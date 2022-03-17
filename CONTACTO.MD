@@ -16,3 +16,11 @@ ATENCION A CLIENTES EL NUMERO ES
   <label for="lname">apellidos:</label><br>
   <input type="text" id="lname" name="lname" value="tus apellidos"><br>
 </form>
+
+
+<form>
+  <label for="name">correo:</label><br>
+  <input type="text" id="lname" name="name" value="tus correo"><br>
+  <label for="lname">cita:</label><br>
+  <input type="text" id="lname" name="lname" value="tu cita"><br>
+</form>
