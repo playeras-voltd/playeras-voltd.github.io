@@ -10,17 +10,14 @@ ATENCION A CLIENTES EL NUMERO ES
   
   ![wa link_ku61ib](https://user-images.githubusercontent.com/100168748/158484608-7e0445ac-aa94-4047-81fc-5abbc244a7b9.png)
 
-<form>
+<form action="/action_page.php">
   <label for="name">Nombres:</label><br>
   <input type="text" id="lname" name="name" value="tus nombres"><br>
   <label for="lname">apellidos:</label><br>
   <input type="text" id="lname" name="lname" value="tus apellidos"><br>
-</form>
-
-
-<form>
   <label for="name">correo:</label><br>
   <input type="text" id="lname" name="name" value="tus correo"><br>
   <label for="lname">cita:</label><br>
   <input type="text" id="lname" name="lname" value="tu cita"><br>
+  <input type="submit" value="Submit">
 </form>
